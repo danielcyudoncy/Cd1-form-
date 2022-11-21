@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(90deg,blue, red);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.login{
+    background-color: rgb(112, 89, 107);
+    width: 400px;
+    margin: 100px auto;
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+label{
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 3px;
+    margin: 3px;
+    
+
+}
+
+input{
+    width: 330px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: 1px solid white;
+    border-style: none;
+}
+
+h1{
+    text-align: center;
+    text-decoration: solid;
+    text-shadow: 10cm;
+}
+
+form{
+    margin: 12px;
+}
+
+#submit{
+    background: linear-gradient( 180deg, orange, black);
+    color: white;
+    font-weight: bolder;
+    border-style: none;
+    
+}
